@@ -17,7 +17,7 @@ Madcoin Coin Hybrid POW/POS algorithm and Masternodes operators give network sta
 | Specification | Value             |
 | ------------- |:------------------|
 | Bitcointalk   | [https://bitcointalk.org/index.php?topic=](https://bitcointalk.org/index.php?topic=)       |
-| Discord       | [https://discord.gg/9PCxww](https://discord.gg/9PCxww) |
+| Discord       | [https://discord.gg/Pur2hZU](https://discord.gg/Pur2hZU) |
 | Website       | [https://madcoin.space](https://madcoin.space) |
 | Explorer      | [https://explorer.madcoin.space](https://explorer.madcoin.space)
 
