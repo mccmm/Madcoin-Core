@@ -1,0 +1,22 @@
+[Unit]
+Description=Madcoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=madcoincore
+Group=madcoincore
+
+Type=forking
+PIDFile=/var/lib/madcoind/madcoind.pid
+ExecStart=/usr/bin/madcoind -daemon -pid=/var/lib/madcoind/madcoind.pid \
+-conf=/etc/madcoincore/madcoin.conf -datadir=/var/lib/madcoind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
