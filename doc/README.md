@@ -1,7 +1,7 @@
 Madcoin Core 0.12.1
 =====================
 
-This is the official reference wallet for Madcoin digital currency and comprises the backbone of the Madcoin peer-to-peer network. You can [download Madcoin Core](https://www.madcoin.org/downloads/) or [build it yourself](#building) using the guides below.
+This is the official reference wallet for Madcoin digital currency and comprises the backbone of the Madcoin peer-to-peer network. You can [download Madcoin Core](https://www.madcoin.space) or [build it yourself](#building) using the guides below.
 
 Running
 ---------------------
@@ -11,8 +11,8 @@ The following are some helpful notes on how to run Madcoin on your native platfo
 
 Unpack the files into a directory and run:
 
-- `bin/bitcoin-qt` (GUI) or
-- `bin/bitcoind` (headless)
+- `bin/madcoin-qt` (GUI) or
+- `bin/madcoind` (headless)
 
 ### Windows
 
