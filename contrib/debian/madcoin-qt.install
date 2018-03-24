@@ -1,0 +1,6 @@
+usr/local/bin/madcoin-qt usr/bin
+share/pixmaps/madcoin32.xpm usr/share/pixmaps
+share/pixmaps/madcoin16.xpm usr/share/pixmaps
+share/pixmaps/madcoin128.png usr/share/pixmaps
+debian/madcoin-qt.desktop usr/share/applications
+debian/madcoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,3 @@
+debian/manpages/madcoind.1
+debian/manpages/madcoin.conf.5
+debian/manpages/madcoin-cli.1
