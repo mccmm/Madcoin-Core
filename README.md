@@ -1,5 +1,5 @@
-# Madcoin Coin
-**[https://madcoin.space]()**
+# MadcoinCore 
+**[www.madcoin.space]()**
 
 Madcoin Coin Hybrid POW/POS algorithm and Masternodes operators give network stability and 51% network attacks protection.
 
